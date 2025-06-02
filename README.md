@@ -1,8 +1,6 @@
 ---
 title: Fashion Style Transfer
-emoji: 🏃
-colorFrom: yellow
-colorTo: pink
+app: https://huggingface.co/spaces/VictorGearhead/Fashion-Style-Transfer
 sdk: streamlit
 sdk_version: 1.44.1
 app_file: app.py
