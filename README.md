@@ -1,13 +1,8 @@
 ---
 title: Fashion Style Transfer
 app: https://huggingface.co/spaces/VictorGearhead/Fashion-Style-Transfer
-sdk: streamlit
-sdk_version: 1.44.1
-app_file: app.py
-pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 # Style Transfer in Fashion Images
 
 This project implements a deep learning-based system for style transfer in fashion images, combining cloth segmentation, saliency map generation, and neural style transfer to create a virtual try-on experience. The system stylizes clothing regions in an input image while preserving the background, using saliency-based blending for seamless integration.
